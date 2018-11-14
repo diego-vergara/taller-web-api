@@ -20,3 +20,7 @@ Taller para el desarrollo simple de una API en .NET Core 2 con Entity Framework.
 ## Fuentes
 
 > **EF Core**: https://docs.microsoft.com/es-es/ef/core/
+
+> **Mejores Practicas API Microsoft** : https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
+> **API Guidelines Microsoft** : https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
